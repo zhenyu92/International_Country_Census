@@ -30,7 +30,7 @@ Database can be accessed from the Big Query public data set:
 `bigquery-public-data.census_bureau_international.age_specific_fertility_rates`
 
 
-##### Dataset Query
+### Dataset Query
 ```
 SELECT
   c.country_name,
